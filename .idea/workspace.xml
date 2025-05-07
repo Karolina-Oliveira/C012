@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4ab278d-ab0c-4972-a366-18392af77a82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/C012.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com_controle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/escalonamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sem_controle.py" afterDir="false" />
-    </list>
+    <list default="true" id="a4ab278d-ab0c-4972-a366-18392af77a82" name="Changes" comment="comitando" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Karolina-Oliveira/C012.git",
+    "accountId": "336b1490-da83-41a0-aaf5-87368387dd84"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -70,12 +67,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746573958499</updated>
-      <workItem from="1746573959868" duration="1913000" />
+      <workItem from="1746573959868" duration="2245000" />
     </task>
+    <task id="LOCAL-00001" summary="comitando">
+      <option name="closed" value="true" />
+      <created>1746575889351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746575889351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="comitando">
+      <option name="closed" value="true" />
+      <created>1746575928761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746575928761</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comitando">
+      <option name="closed" value="true" />
+      <created>1746575962062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746575962062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comitando" />
+    <option name="LAST_COMMIT_MESSAGE" value="comitando" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/C012$escalonamento.coverage" NAME="escalonamento Coverage Results" MODIFIED="1746575504885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
