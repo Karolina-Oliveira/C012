@@ -1,6 +1,6 @@
 # Projeto C012
 
-Este repositório contém o projeto desenvolvido por **Karolina Oliveira da Silva** e **Sabrina Ramos Silveira** como parte do curso de Engenharia de Controle e Automação. O objetivo principal é simular e analisar sistemas de controle, explorando diferentes estratégias de escalonamento e controle de processos.
+Este repositório contém o projeto desenvolvido por **Karolina Oliveira da Silva** e **Sabrina Ramos Silveira** como parte do curso de Engenharia de Software. O objetivo principal é simular e analisar sistemas de controle, explorando diferentes estratégias de escalonamento e controle de processos.
 
 ## 📁 Estrutura do Repositório
 
